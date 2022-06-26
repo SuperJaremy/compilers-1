@@ -1,0 +1,7 @@
+{ this program will not compile}
+Var a:Decimal;
+Begin
+a := 256
+SOME TEXT
+End
+.

@@ -1,0 +1,5 @@
+{ minimal working program }
+Begin
+
+End
+.

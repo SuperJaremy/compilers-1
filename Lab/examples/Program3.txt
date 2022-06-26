@@ -1,0 +1,7 @@
+{ program with only decimals }
+Var a:Decimal;
+Begin
+a := 0
+a := a + 1
+End
+.

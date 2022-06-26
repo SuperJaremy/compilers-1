@@ -1,0 +1,27 @@
+{ comment. }
+Var a,c:Decimal; 
+Var b, d:Boolean;
+Begin
+{ two-lines.
+comment. }
+a := 18
+c := 24 - 8 + a + 9 * 3
+b := 1
+d := 0
+{ three 
+  lines 
+  comment }
+b := b.OR..NOT.b.AND.d.XOR.b
+FOR 8 + c TO a * 24 DO 
+FOR 16-a TO 12/a DO 
+Begin
+c := a - c + 1
+a := c -a- 1
+FOR c - a TO c+a DO 
+d := .NOT.d
+End
+b:= 1 .AND.0.OR. b
+End
+.
+{ end 
+comment }

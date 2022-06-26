@@ -1,0 +1,10 @@
+{ program with undecalared variable }
+Var a:Decimal;
+Var b:Boolean;
+Begin
+{ e:=0 }
+{ e:= a }
+ a:= 18 * e 
+{ b:= .NOT.e }
+End
+.

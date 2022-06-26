@@ -1,0 +1,10 @@
+{ program with type mismatch }
+Var a:Decimal;
+Var b:Boolean;
+Begin
+{ a := b }
+{ b:= a.AND.0 } 
+ a:= b - 3 
+{ uncomment to try }
+End
+.

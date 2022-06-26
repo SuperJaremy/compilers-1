@@ -1,0 +1,7 @@
+{ program with only booleans }
+Var a:Boolean;
+Begin
+a := 1
+a := 1.XOR..NOT.a
+End
+.
